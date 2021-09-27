@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title> yeah </title>
+<meta name="description" content="Animals can be scary sometimes">
+<meta name="author" content="Jessica">
+<meta name="keywords" content="Frogs, Pets, fear scale">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+<h1 ID="frog"> When I was younger I had a phase where I'd be obsessed with finding a suitable pet and so I was able to gain a lot of unnecessary knowledge and opinions on somewhat mundane yet popular animals. </h1>
+<p>
+
+<h1 class="rating">So, I will now be rating some popular animals and my opinions on them by whether I'd scream if I saw them or not. </h1>
+<h2 ID="byline"> American green tree frog </h2>
+  <h3> It is very cute with its cute little feet and big eyes, and their little CROAK noises but; I'd prefer if it stayed 500ft away at all times.
+</h3>
+<img src=https://upload.wikimedia.org/wikipedia/commons/8/8d/Frog_on_palm_frond.jpg>
+<li class="rating">
+Its not you, its me/10
+  </li>
+
+ <h2 ID="byline">
+Monarch Butterflies
+  </h2>
+<h3> Very pretty from afar, GORGEOUS, good for the environment, would probably drink ur blood if u fell near it so; no thank you, you can keep them to yourself.</h3>
+<img src=https://www.gardeningknowhow.com/wp-content/uploads/2020/02/butterfly.jpg>
+  <li class="rating">7/10</li>
+
+
+<h2 ID="byline">
+Moths. (specially rosy maple moths)
+  </h2>
+
+<h3> To the public eye they may not seem popular at first, but Moths are very popular in the pet trade, but they look rather scary up-close and like they would munch on your clothes as you sleep.
+  </h3>
+<img src=https://www.butterfliesandmoths.org/sites/default/files/bamona_images/dryocampa-rubicunda-krupsaw.jpg>
+<img src=https://www.thespruce.com/thmb/vL3egBHao2DsyEtlS4AZkCoFWZk=/2275x1706/smart/filters:no_upscale()/85455257-56a709dc5f9b58b7d0e6347e.jpg>
+  <li class="rating"> 3/10 in the screaming scale, 100/10 in the hitting one</li>
+  
+<h2 ID="byline">
+Fireflies
+  </h2>
+
+<h3>
+Although I do not like fireflies: they are creepy, and they look like flying Cockroaches disco edition
+</h3>
+<p> I believe We should try to help them since
+Fireflies are actually slowly dissapearing due to light pollution, pesticide use, and loss of habitat from development. So if you can please help them make a big comeback before they actually become endangered <a href="https://en.wikipedia.org/wiki/New_York_(state)"> click here to learn more. </a>
+</p>
+
+
+<img src=https://www.nrcm.org/wp-content/uploads/2018/07/firefly-illuminating-wood-anemone-wildflower.jpg>
+  <li class="rating"> 2/10</li>
+  <br>
+</br>
+<h3> Overall, We all have different tastes in animals and it is important to respect that and others' opinions. All while making sure that even if we don't like certain animals, others will get to experience them being around even so. </h3>
+</body>
+
